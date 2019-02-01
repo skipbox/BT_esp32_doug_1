@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
                             e.printStackTrace();
                         }
 
-
+//some comment
                         handler.postDelayed(this, 2000);
                     }
                 }, 1500);
